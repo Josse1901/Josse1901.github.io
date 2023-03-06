@@ -1,0 +1,72 @@
+div {
+    font-family: 'Karla', sans-serif;
+    
+
+}
+
+#div1 {
+    background-color: lightslategrey;
+    
+}
+
+#div2 {
+    background-color: aliceblue;
+    
+}
+
+
+.box {
+    background: linear-gradient(105deg, rgba(255, 255, 255, 0.2) 39%, rgb(57, 51, 51) 96%) center center / 400px 200px no-repeat,
+    url(big-star.png) center no-repeat, rgb(153, 143, 51);
+  }
+  
+  ul.a {
+    list-style-type: circle;
+  }
+
+  .borde {
+    border-style: inset;}
+
+    label {
+        padding-right: 10px;
+        font-size: 1rem;
+    }
+
+    #b1 {
+       background-color: green;
+       width: 250px;
+       border: 10px;
+       padding: 25px;
+       text-align: center;
+       color: white;
+       font-size: 20px;
+       margin: 4px 2px;
+       
+    }
+
+    #b2 {
+        background-color: red;
+        width: 250px;
+        border: 10px;
+        padding: 25px;
+        text-align: center;
+        color: white;
+        font-size: 20px;
+        margin: 4px 2px;
+        
+    }
+
+    #b3 {
+        background-color: yellowgreen;
+        width: 250px;
+        border: 10px;
+        padding: 25px;
+        text-align: center;
+        color: white;
+        font-size: 20px;
+        margin: 4px 2px;
+        
+    }
+
+    
+
